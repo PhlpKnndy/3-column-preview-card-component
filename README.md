@@ -37,7 +37,7 @@ Your users should be able to:
 
 - **Solution URL -** [Frontend Mentor Solution](#)
 
-- **Live Site URL -** [Live Site Preview (Vercel)](#)
+- **Live Site URL -** [Live Site Preview (Vercel)](https://3-column-preview-card-component-phlpknndy.vercel.app/)
 
 ## My Process
 
