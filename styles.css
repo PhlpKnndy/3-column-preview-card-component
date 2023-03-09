@@ -17,9 +17,9 @@ body {
   font-family: "lexend deca", sans-serif;
 }
 .Card {
-  border-radius: 10px;
+  border-radius: 0.625rem;
   display: flex;
-  margin: 150px auto;
+  margin: 9.4rem auto;
   max-width: 56rem;
   overflow: hidden;
 }
@@ -28,7 +28,7 @@ body {
   flex-direction: column;
   justify-content: left;
   min-height: 25vh;
-  padding: 45px;
+  padding: 2.81rem;
 }
 .Card__column--1--color {
   background-color: var(--bright-orange);
@@ -40,30 +40,31 @@ body {
   background-color: var(--very-dark-cyan);
 }
 .Card__column__icon {
-  width: 65px;
+  width: 4rem;
 }
 .Card__column__title {
   color: var(--very-light-gray);
   font-family: "Big Shoulders Display", sans-serif;
   font-weight: 700;
-  margin: 40px 0px 5px 0px;
+  margin: 2.5rem 0rem 0.31rem 0rem;
   text-transform: uppercase;
 }
 .Card__column__description {
-  font-size: 15px;
+  font-size: 0.9375em;
   font-weight: 400;
-  line-height: 22px;
-  margin: 40px 0px;
+  line-height: 1.4rem;
+  margin: 2.5rem 0rem;
+  padding-bottom: 3.12rem;
 }
 .Card__column__btn {
   border-radius: 50px;
-  border: 2px solid var(--very-light-gray);
+  border: 0.125rem solid var(--very-light-gray);
   cursor: pointer;
   font-family: "lexend deca", sans-serif;
-  font-size: 15px;
+  font-size: 0.9375em;
   font-weight: 400;
-  margin-top: 50px;
-  padding: 10px 20px;
+  margin-top: 3.13rem;
+  padding: 0.63rem 1.25rem;
   width: fit-content;
 }
 .Card__column__btn--1--color {
@@ -106,8 +107,8 @@ body {
   }
 }
 .Card__column__description {
-  margin-bottom: 25px;
+  margin-bottom: 1.6rem;
 }
 .Card__column__btn {
-  margin-top: 1px;
+  margin-top: 0.06rem;
 }
