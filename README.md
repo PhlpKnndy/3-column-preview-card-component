@@ -35,7 +35,7 @@ Your users should be able to:
 
 ### Links
 
-- **Solution URL -** [Frontend Mentor Solution](#)
+- **Solution URL -** [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/3column-preview-card-component-WuIuYJVNpD)
 
 - **Live Site URL -** [Live Site Preview (Vercel)](https://3-column-preview-card-component-phlpknndy.vercel.app/)
 
