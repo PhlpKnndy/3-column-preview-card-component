@@ -53,17 +53,17 @@ body {
   font-size: 0.9375em;
   font-weight: 400;
   line-height: 1.4rem;
-  margin: 2.5rem 0rem;
-  padding-bottom: 3.12rem;
+  margin-top: 2.5rem;
+  padding-bottom: 4rem;
 }
 .Card__column__btn {
-  border-radius: 50px;
+  border-radius: 3.13rem;
   border: 0.125rem solid var(--very-light-gray);
   cursor: pointer;
   font-family: "lexend deca", sans-serif;
   font-size: 0.9375em;
   font-weight: 400;
-  margin-top: 3.13rem;
+  margin-top: 0.06rem;
   padding: 0.63rem 1.25rem;
   width: fit-content;
 }
@@ -105,10 +105,7 @@ body {
     flex-basis: 100%;
     min-height: 25vh;
   }
-}
-.Card__column__description {
-  margin-bottom: 1.6rem;
-}
-.Card__column__btn {
-  margin-top: 0.06rem;
+  .Card__column__description {
+    padding-bottom: 1.5rem;
+  }
 }
